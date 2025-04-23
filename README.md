@@ -2,7 +2,7 @@
 In this project I built an AI-driven career coaching assistant using Crew AI, an agent-based framework that allows for creation and collaboration of agents to execute taks. 
 The goal of this project is to assist new grads with the navigation of the job market by providing: 
 
-1. Personalized job reccomendations based on your background
+1. Personalized job reccomendations based on background
 2. Salary insights
 3. Identification of skill gaps and reccomendations of certifications to upskill
 4. 6 month roadmap for student to follow to organize reccomendations and begin applying for jobs
